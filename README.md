@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rombor73
-- 👀 I’m interested in embeded systems
+- 👀 I’m interested in embedded systems
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on C projects
 - 📫 How to reach me rdborisenko@gmail.com
